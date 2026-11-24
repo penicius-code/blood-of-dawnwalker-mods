@@ -25,7 +25,7 @@ local clock = os.clock -- MSVC: wall time since process start, 1 ms resolution
 
 ---------------------------------------------------------------- config
 
-local CFG = { Enabled = 1, Threshold = 30, Toast = 1, Logging = 1, TickMs = 100, Rearm = 1 }
+local CFG = { Enabled = 1, Threshold = 30, Toast = 1, Logging = 0, TickMs = 100, Rearm = 1 }
 
 local function readConfig()
     local f = io.open(MOD_DIR .. "config.ini", "r")
@@ -395,7 +395,7 @@ LoopInGameThreadAfterFrames(1, function()
     return false
 end)
 
-pcall(RegisterKeyBind, Key.MULTIPLY, function() toggleRequested = true nextTick = 0 end)
+-- (no hotkey: switch the mod on and off in the Mod Setting Menu)
 
 -- The hook callback only sets a flag; tick() does the reset on the game thread before touching anything.
 local loadMapHook = type(RegisterLoadMapPreHook) == "function"

@@ -51,17 +51,17 @@ Requirements are not bundled. Install them first from their own pages.
 
 `config.ini`, section `[Settings]`, read again every 2 seconds. The same settings are on the Mod Setting Menu page.
 
-| Key | Default in this copy | Meaning |
+| Key | Default | Meaning |
 |---|---|---|
 | `Enabled` | `1` | `0` = everything as the game shows it |
 | `Opacity` | `0` | lock-on reticle in %; `100` = the game's own |
 | `BarOpacity` | `35` | health bar of the targeted enemy |
 | `OtherBarOpacity` | `25` | health bars of all other enemies in combat |
 | `BossBarOpacity` | `50` | boss bar; `100` = left alone |
-| `Logging` | `1` | `[NoLockReticle]` lines in `UE4SS.log`; set `0` for normal play |
+| `Logging` | `0` | `1` = `[NoLockReticle]` lines in `UE4SS.log`, for bug reports |
 | `TickMs` | `100` | check interval |
 
-This copy is the development package and ships `Logging = 1`; the readme on Nexus Mods lists `0` as the default.
+The defaults match the Nexus Mods release; the rest of the files come from the development copy, because the release archive was not at hand.
 
 ## Compatibility
 

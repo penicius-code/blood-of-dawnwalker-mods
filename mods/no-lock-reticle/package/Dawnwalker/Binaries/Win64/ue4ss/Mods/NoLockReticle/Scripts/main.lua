@@ -19,7 +19,7 @@ local clock = os.clock -- MSVC: wall time since process start, 1 ms resolution
 
 ---------------------------------------------------------------- config
 
-local CFG = { Enabled = 1, Opacity = 0, BarOpacity = 35, OtherBarOpacity = 25, BossBarOpacity = 50, Logging = 1, TickMs = 100 }
+local CFG = { Enabled = 1, Opacity = 0, BarOpacity = 35, OtherBarOpacity = 25, BossBarOpacity = 50, Logging = 0, TickMs = 100 }
 local CONFIG_EVERY_S = 2.0
 
 local function readConfig()

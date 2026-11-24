@@ -9,7 +9,7 @@ Published on Nexus Mods as "Wolf Form": <https://www.nexusmods.com/thebloodofdaw
 
 In vanilla the wolf exists only at full Haste speed: as soon as Coen slows down he turns human. With this mod:
 
-- Numpad 7 switches between wolf and human, no Haste needed (at night only, by default).
+- P switches between wolf and human, no Haste needed (at night only, by default).
 - Optional: Coen stays a wolf when a wolf Haste ends (`HoldAfterHaste`, off by default).
 - Combat, dialogue, cutscenes, Shadowstep, climbing, crouching, interacting and dawn turn him human, and he stays human until the key is pressed again.
 - While sprinting as a wolf, the Haste gallop plays (the wolf has no sprint animation of its own).
@@ -39,7 +39,7 @@ Requirements are not bundled. Install them first from their own pages.
 1. Install UE4SS for Dawnwalker.
 2. Copy the contents of `package/` into the game folder, so that this file exists:
    `The Blood of Dawnwalker\Dawnwalker\Binaries\Win64\ue4ss\Mods\WolfForm\Scripts\main.lua`
-3. Start the game, wait for night, stand outdoors out of combat and press Numpad 7: Coen turns into the wolf.
+3. Start the game, wait for night, stand outdoors out of combat and press P: Coen turns into the wolf.
 
 ## Uninstall / roll back
 
@@ -55,13 +55,13 @@ Requirements are not bundled. Install them first from their own pages.
 | Key | Default | Meaning |
 |---|---|---|
 | `Enabled` | `1` | `0` = vanilla (wolf only during Haste) |
-| `ToggleKey` | `NUM_SEVEN` | UE4SS key name; empty = no key |
+| `ToggleKey` | `P` | UE4SS key name, for example `NUM_SEVEN`; empty = no key |
 | `HoldAfterHaste` | `0` | `1` = Coen stays a wolf after a wolf Haste |
 | `NightOnly` | `1` | `1` = wolf form only at night |
 | `NoSpeedUpTransitions` | `1` | `1` = no walk-to-run transition animations while a wolf |
 | `Logging` | `0` | `1` = `WolfForm.log` next to `Dawnwalker.exe` |
 
-The zip on Nexus Mods sets `ToggleKey = P`. This copy keeps Numpad 7, the key it was tested with.
+The defaults match the Nexus Mods release; the rest of the files come from the development copy, because the release archive was not at hand. The in-game tests used `ToggleKey = NUM_SEVEN` (Numpad 7).
 
 ## Known issues
 

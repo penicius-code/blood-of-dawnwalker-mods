@@ -1,5 +1,5 @@
 -- Wolf Form Beta 0.2.0
--- Coen stays a wolf after a wolf Haste, until the hotkey (Numpad 7) or something
+-- Coen stays a wolf after a wolf Haste, until the hotkey (P) or something
 -- only the human body can do: combat, dialogue/cutscene, Shadowstep, climbing,
 -- crouching, interacting. He then stays human until the hotkey.
 --
@@ -738,7 +738,7 @@ end
 local cfg = readConfig()
 applyConfig(cfg)
 
-local keyName = (cfg.togglekey or "NUM_SEVEN"):upper()
+local keyName = (cfg.togglekey or "P"):upper()
 if keyName ~= "" then
     local key = Key[keyName]
     if key then
