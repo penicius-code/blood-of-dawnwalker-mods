@@ -1,7 +1,7 @@
 # Wolf Form
 
 Coen can stay in wolf form outside Haste and switch between wolf and human with a key. Single-player only.
-Version 0.2.0 (named "Wolf Form Beta" in the settings menu) | Status: 0.1.4 tested in game on 2026-10-04 (no crash, no errors, 19 of 19 holds after Haste came back); 0.2.0 only removed one setting and renamed the menu page, no separate test record
+Version 0.2.0 (named "Wolf Form Beta" in the settings menu) | Status: 0.1.4 tested in game on 2026-10-04 (no crash, no errors, 19 of 19 holds after Haste came back); 0.2.0 (one setting removed, menu page renamed) tested in game, not extensively
 
 Published on Nexus Mods as "Wolf Form": <https://www.nexusmods.com/thebloodofdawnwalker/mods/724>
 
