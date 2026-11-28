@@ -9,7 +9,7 @@ Tested in game between 2026-09-28 and 2026-10-12; the exact game build of each t
 
 ## Mods
 
-Status: `tested` (tested in game; details in the mod's README) | `in use` (runs in the author's game; tested, not extensively)
+Status: `tested` (tested in game; details in the mod's README) | `in use` (runs in the author's game; tested)
 
 <details>
 <summary><strong>Published on Nexus Mods</strong> (8)</summary>

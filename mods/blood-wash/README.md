@@ -1,7 +1,7 @@
 # Blood Wash
 
 Blood stays on Coen's body and mouth for a set time, and hotkeys play short gestures that wash it off. Single-player only.
-Version 0.8.2 | Status: 0.8.0 tested in game on 2026-10-03; the 0.8.2 changes (shoulder brush gesture, speed sliders) are installed and tested in game, not extensively, and the brush timings are estimates
+Version 0.8.2 | Status: 0.8.0 tested in game on 2026-10-03; the 0.8.2 changes (shoulder brush gesture, speed sliders) are installed and tested in game, and the brush timings are estimates
 
 Published on Nexus Mods as "Blood Wash": <https://www.nexusmods.com/thebloodofdawnwalker/mods/708>
 

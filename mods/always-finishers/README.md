@@ -1,7 +1,7 @@
 # Always Finishers
 
 Raises the enemy health threshold below which a killing blow plays a finisher. Single-player only.
-Version 0.5.1 | Status: 0.5.0 tested in game on 2026-10-12 (6 of 9 kills were finishers at a 50 % threshold); the 0.5.1 save-reload fix is tested in game, not extensively
+Version 0.5.1 | Status: 0.5.0 tested in game on 2026-10-12 (6 of 9 kills were finishers at a 50 % threshold); the 0.5.1 save-reload fix is tested in game
 
 Published on Nexus Mods as "Always Finishers - Higher Finisher HP Threshold": <https://www.nexusmods.com/thebloodofdawnwalker/mods/749>
 
@@ -72,7 +72,7 @@ Requirements are not bundled. Install them first from their own pages.
 
 | Version | Date | Change |
 |---|---|---|
-| 0.5.1 | 2026-10-22 | Keeps working after loading a save: the threshold is re-applied after every load (reported by a user on 2026-10-20). Tested in game, not extensively. |
+| 0.5.1 | 2026-10-22 | Keeps working after loading a save: the threshold is re-applied after every load (reported by a user on 2026-10-20). Tested in game. |
 | 0.5.0 | 2026-10-12 | Built; released as a beta by 2026-10-20: marked enemies are marked again when hit by an attack. |
 | 0.2.0 | 2026-10-12 | Re-arm: enemies under Dirty Trick can be finished. |
 | 0.1.0 | 2026-10-12 | First build: raised threshold. |

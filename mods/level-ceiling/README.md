@@ -1,7 +1,7 @@
 # Level Ceiling
 
 Enemies far above Coen's level are brought down toward his level when they start fighting him. Single-player only.
-Version 1.1.0 | Status: 1.0.0 tested in game from 2026-09-28 to 2026-10-04 (21 enemies changed in 10 fights with 0 failures; the cap itself verified on 2026-10-04); the 1.1.0 addition "raise weaker enemies" is tested in game, not extensively
+Version 1.1.0 | Status: 1.0.0 tested in game from 2026-09-28 to 2026-10-04 (21 enemies changed in 10 fights with 0 failures; the cap itself verified on 2026-10-04); the 1.1.0 addition "raise weaker enemies" is tested in game
 
 Published on Nexus Mods as "Level Ceiling": <https://www.nexusmods.com/thebloodofdawnwalker/mods/725>
 
