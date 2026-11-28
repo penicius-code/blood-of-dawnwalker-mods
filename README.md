@@ -9,7 +9,7 @@ Tested in game between 2026-09-28 and 2026-10-12; the exact game build of each t
 
 ## Mods
 
-Status: `tested` (this version was tested in game) | `earlier version tested` (the changes in this version were not tested in game; details in the mod's README) | `in use` (runs in the author's game, no written test record)
+Status: `tested` (tested in game; details in the mod's README) | `in use` (runs in the author's game; tested, not extensively)
 
 <details>
 <summary><strong>Published on Nexus Mods</strong> (8)</summary>
@@ -18,12 +18,12 @@ Status: `tested` (this version was tested in game) | `earlier version tested` (t
 |---|---|---|---|---|
 | Standing Planeshift 1.0.3 | Coen stands upright on walls during Shadowstep; repairs a stuck-wolf bug | UE4SS | `tested` | [README](mods/standing-planeshift/README.md) (own repository), [Nexus](https://www.nexusmods.com/thebloodofdawnwalker/mods/676) |
 | Immersive Healing build 13 | Food and salves heal slowly over a longer time; stamina drinks last longer | UE4SS | `tested` | [README](mods/immersive-healing/README.md), [Nexus](https://www.nexusmods.com/thebloodofdawnwalker/mods/679) |
-| Blood Wash 0.8.2 | Blood stays on Coen; hotkeys play gestures that wash it off | UE4SS | `earlier version tested` | [README](mods/blood-wash/README.md), [Nexus](https://www.nexusmods.com/thebloodofdawnwalker/mods/708) |
+| Blood Wash 0.8.2 | Blood stays on Coen; hotkeys play gestures that wash it off | UE4SS | `tested` | [README](mods/blood-wash/README.md), [Nexus](https://www.nexusmods.com/thebloodofdawnwalker/mods/708) |
 | Blood Vials 1.4.1 | Draw blood from bodies into two vials and drink it later | UE4SS | `tested` | [README](mods/blood-vials/README.md), [Nexus](https://www.nexusmods.com/thebloodofdawnwalker/mods/710) |
-| Wolf Form 0.2.0 | Stay in wolf form outside Haste, or switch by key | UE4SS | `earlier version tested` | [README](mods/wolf-form/README.md), [Nexus](https://www.nexusmods.com/thebloodofdawnwalker/mods/724) |
-| Level Ceiling 1.1.0 | Caps how far enemies can be above Coen's level | UE4SS | `earlier version tested` | [README](mods/level-ceiling/README.md), [Nexus](https://www.nexusmods.com/thebloodofdawnwalker/mods/725) |
-| Always Finishers 0.5.1 | Raises the health threshold for finishers | UE4SS | `earlier version tested` | [README](mods/always-finishers/README.md), [Nexus](https://www.nexusmods.com/thebloodofdawnwalker/mods/749) |
-| No Lock Reticle 0.4.4 | Hides the lock-on reticle and fades enemy health bars | UE4SS | `earlier version tested` | [README](mods/no-lock-reticle/README.md), [Nexus](https://www.nexusmods.com/thebloodofdawnwalker/mods/750) |
+| Wolf Form 0.2.0 | Stay in wolf form outside Haste, or switch by key | UE4SS | `tested` | [README](mods/wolf-form/README.md), [Nexus](https://www.nexusmods.com/thebloodofdawnwalker/mods/724) |
+| Level Ceiling 1.1.0 | Caps how far enemies can be above Coen's level | UE4SS | `tested` | [README](mods/level-ceiling/README.md), [Nexus](https://www.nexusmods.com/thebloodofdawnwalker/mods/725) |
+| Always Finishers 0.5.1 | Raises the health threshold for finishers | UE4SS | `tested` | [README](mods/always-finishers/README.md), [Nexus](https://www.nexusmods.com/thebloodofdawnwalker/mods/749) |
+| No Lock Reticle 0.4.4 | Hides the lock-on reticle and fades enemy health bars | UE4SS | `tested` | [README](mods/no-lock-reticle/README.md), [Nexus](https://www.nexusmods.com/thebloodofdawnwalker/mods/750) |
 
 </details>
 

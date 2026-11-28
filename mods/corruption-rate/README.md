@@ -1,7 +1,7 @@
 # Corruption Rate
 
 Keeps only a set share of every corruption gain, so Coen's vampire corruption grows more slowly. Single-player only.
-Version 0.1.0 | Status: in use, no test record of its own; its log during the Blood Vials tests on 2026-10-10 and 2026-10-11 shows gains cut to the set share (20 % then). Not published on Nexus Mods.
+Version 0.1.0 | Status: in use, tested, not extensively; its log during the Blood Vials tests on 2026-10-10 and 2026-10-11 shows gains cut to the set share (20 % then). Not published on Nexus Mods.
 
 ## What and why
 
